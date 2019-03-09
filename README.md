@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 use reactjs,reactstrap(bootsrap4 in  react),and npm to run.
 ## Available Scripts
 In this project i run this in port 3000 cause there is problem in my pc to run it in port 6000,you can change to port 6000 by edit in file .env
-In the project directory, you can run:
+In the project directory, 
 ###  `npm install`
 ### `npm start`
 
