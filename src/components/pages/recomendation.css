@@ -1,0 +1,53 @@
+h7{
+    color:#3171A8;
+    font-weight: bold;
+}
+.feed{
+    margin-top: 12px;
+    background-color: #FFFFFF;
+    padding: 8px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 1px;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px #aaaaaa;
+    border: 1px solid #CDCDCD;
+
+}
+.descss{
+    margin-left:40px;
+    margin-top: -39px;
+    width:100px;
+}
+.users{
+    margin: 2px;
+    width: 70px;
+}
+.descss span.titles{
+    font-weight: bold;
+    font-size: 14px;
+    padding-left:3px; 
+}
+.descss span.poss{
+    
+    font-size: 10px;
+    padding-left:3px;
+    padding-bottom:3px;  
+}
+.follows span.follow{
+    float: right;
+    font-size: 10px;
+    padding: 7px;
+    margin-top: -50px;
+    width:80px;
+    
+    
+}
+.descss .test{
+    width:100px;    
+    margin-top: -2px;
+   
+}
+.rec{
+    padding: 2px;
+    margin-top: 2px;
+}

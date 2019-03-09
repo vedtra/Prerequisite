@@ -1,0 +1,128 @@
+.post{
+    margin-top: 12px;
+    background-color: #FFFFFF;
+    padding: 10px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 1px;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px #aaaaaa;
+    border: 1px solid #CDCDCD;
+    
+}
+.post .write{
+  
+    font-size: 16px;
+    line-height: 50px;
+    color: #737373;
+    text-overflow: ellipsis;
+    margin-left: 10px;
+}
+.btn {
+    background-color: #FFFFFF;
+    border:solid 1px;
+    color: #404040;
+    padding: 7px;
+    font-size: 16px;
+    border-radius: 25px 25px;
+    
+    
+    
+  }
+  .icon1{
+    padding: 7px;
+    width: 10px;
+  }
+  .btns button.btn{
+      margin-left: 10px;
+  }
+  .posted{
+      background-color:#FFFFFF;
+      padding: 3px;
+      
+  }
+  .desc{
+    background-color:#FFFFFF;
+    
+  }
+  .mb-2 text-muted{
+    font-size: 10px;
+  }
+  .icon_post {    
+    float: right;
+    
+    font-size:14px; 
+    color: rgb(184, 184, 184);
+    margin-left:20px;
+    margin-bottom: 13px;
+    }
+    
+ .icon_post span {
+      float:right;
+      color: rgb(83, 83, 83);
+      display: block;
+      margin-right: 475px;
+      margin-top: 3px;
+      }
+ .icon_post2 {    
+        float: right;
+        
+        font-size:14px; 
+        color: rgb(184, 184, 184);
+        margin-left:86px;
+        margin-top: -34px;
+        }
+ .icon_post2 span {
+          float:right;
+          color: rgb(83, 83, 83);
+          display: block;
+          margin-right: 366px;
+          margin-top: 1px;
+          }
+
+.icon_post3 {    
+            float: right;
+            
+            font-size:14px; 
+            color: rgb(184, 184, 184);
+            margin-left:190px;
+            margin-top: -24px;
+            }
+.icon_post3 span {
+              float:right;
+              color: rgb(83, 83, 83);
+              display: block;
+              margin-right: 290px;
+              margin-top: 1px;
+              }
+.test{
+  margin:8px;
+}
+.test img{
+  margin:8px;
+}
+.user{
+  margin:8px;
+  width:160px;
+}
+.user img{
+  float:left;
+}
+.user .desc span{
+ 
+}
+.descs span.title{
+  font-size: 14px;
+  font-weight: bold;
+  padding-left: 9px;
+  float: left;
+}
+.descs span.pos{
+  font-size: 10px;
+  padding-left: 8px;
+  float: left;
+}
+.descs span.day{
+  font-size: 10px;
+  padding-left: 8px;
+  float: left;
+}

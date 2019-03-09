@@ -1,0 +1,47 @@
+.card.hovercard .avatars {
+    position: relative;
+    top: -50px;
+    margin-bottom: -50px;
+    margin-left: 14px;
+}
+.card.hovercard .avatars img {
+    width: 120px;
+    height: 120px;
+    max-width: 120px;
+    max-height: 120px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    float: left;
+    
+    border: 5px solid rgba(255,255,255,0.5);
+}
+.card.hovercard .infos .titlee {
+    margin-bottom: 4px;
+    font-size: 24px;
+    line-height: 1;
+    float: left;
+    color: #000000;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.card.hovercard .infos .descc {
+    
+    font-size: 14px;
+    line-height: 80px;
+    float: left;
+    color: #737373;
+    text-overflow: ellipsis;
+    margin-left:-200px;
+    padding: 15px;
+}
+.card.hovercard .infos {
+    margin-left: 8px;
+   
+}
+.infos .titlee span h6{
+    margin-left:-12px;
+    color:rgb(31, 31, 31);
+    padding: 2px;
+}
